@@ -2,7 +2,7 @@
 layout: Homepage
 description: 'Whitman C Huntley'
 avatar: /profile.jpg
-head: 'Hello, World 🌎'
+head: 'Hello, World! 🌎'
 info: 'Student, Programmer, Idiot.'
 socials:
 - title: github
@@ -12,7 +12,8 @@ socials:
 - title: twitter
   link: https://twitter.com/whitmanColm
 - title: email
-	link: 'mailto:whitman.colm[at]gmail.com'
+  link: 'mailto:whitman.colm@gmail.com'
+interests: 'Interests: making automation, communication, and free+open source software easily accessible and usable.'
 actions:
 - text: Blog
   link: /blog/
@@ -20,7 +21,7 @@ actions:
   link: /projects/
 - text: Résume
   link: /resume/
-footer: ©2017-2019 Whitman C Huntley. All Rights Reserved. Site Source Code Available at https://github.com/whitman-colm/whitmansio
+footer: ©2017-2019 Whitman C Huntley. All Rights Reserved. Licenses and other Legal Faffing Available at https://whitmans.io/acknowledgements
 ---
 
-I am a 17 year old Programmer with an interest in Programming. More specifically in making automation, communication, and free+open source software available to everyone.
+I am a 17 year old hobbyist programmer and student at [Performance Learning Center](http://schools.cms.k12.nc.us/plcHS/Pages/Default.aspx) and [Central Piedmont Community College](https://www.cpcc.edu/). This is my website.
