@@ -12,7 +12,7 @@ socials:
 - title: twitter
   link: https://twitter.com/whitmanColm
 - title: email
-	link: mailto:whitman.colm@gmail.com
+	link: 'mailto:whitman.colm[at]gmail.com'
 actions:
 - text: Blog
   link: /blog/
