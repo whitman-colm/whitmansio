@@ -6,14 +6,14 @@ head: 'Hello, World! 🌎'
 info: 'Student, Programmer, Idiot.'
 socials:
 - title: github
-  link: https://github.com/whitman-colm
+  link: https://git.dotfile.cc/whitman
 - title: linkedin
   link: https://linkedin.com/in/whitman-colm
 - title: twitter
   link: https://twitter.com/whitmanColm
 - title: email
   link: 'mailto:whitman.colm@gmail.com'
-interests: 'Interests: making automation, communication, and free+open source software easily accessible and usable.'
+interests: 'Interests: making automation, communication, and libre software easily accessible and usable.'
 actions:
 - text: Blog
   link: /blog/
