@@ -1,8 +1,10 @@
 # Acknowlegments
 
-This site is built using a modified version of [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) by Fing, under MIT License. *This* site however is licensed under GNU/GPL. [Learn more about licensing](/licensing)
+Here are acknowledgments and licensing info about this site. Note none of this applies to any subdomains of whits.io 
 
 ---
+
+This site is built using a modified version of [vuepress-homepage](https://github.com/mtobeiyf/vuepress-homepage) by Fing, under the MIT License:
 
 ```
 MIT License
@@ -27,3 +29,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+This website itself is licensed under the GNU/AGPL v3.0. The full license is available [here](/licensing/gnu-agpl_30/) The source code is available [on Gitea](https://git.dotfile.sh/colm/whitsio)

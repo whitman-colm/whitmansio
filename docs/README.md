@@ -1,27 +1,27 @@
 ---
 layout: Homepage
-description: 'Whitman C Huntley'
-avatar: /profile.jpg
+description: Whit Huntley's Website
+avatar: '/profile.jpg'
 head: 'Hello, World! 🌎'
-info: 'Student, Programmer, Idiot.'
+info: 'Student, Programmer, Activist'
 socials:
-- title: github
-  link: https://git.dotfile.cc/whitman
+- title: git
+  link: https://git.dotfile.sh/colm
 - title: linkedin
   link: https://linkedin.com/in/whitman-colm
 - title: twitter
   link: https://twitter.com/whitmanColm
 - title: email
-  link: 'mailto:whitman.colm@gmail.com'
-interests: 'Interests: making automation, communication, and libre software easily accessible and usable.'
+  link: 'mailto:rwx@whits.io'
+interests: 'Seeking professional opportunities in Linux system administration and architecture, automation, and making FLOSS easily accessible and usable.'
 actions:
-- text: Blog
-  link: /blog/
+- text: Schoolwork
+  link: /edu/
 - text: Projects
   link: /projects/
 - text: Résume
   link: /resume/
-footer: ©2017-2019 Whitman C Huntley. All Rights Reserved. Licenses and other Legal Faffing Available at https://whitmans.io/acknowledgements
+footer: ©2017-2019 Whit Huntley. Powered by Dotfile. Licenses and other Legal Faffing Available at https://whits.io/acknowledgements
 ---
 
-I am a 17 year old hobbyist programmer and student at [Performance Learning Center](http://schools.cms.k12.nc.us/plcHS/Pages/Default.aspx) and [Central Piedmont Community College](https://www.cpcc.edu/). This is my website.
+I am a programmer, activist, and student currently attending [Performance Learning Center](http://schools.cms.k12.nc.us/plcHS/Pages/Default.aspx) and [Central Piedmont Community College](https://www.cpcc.edu/). This is my website.
